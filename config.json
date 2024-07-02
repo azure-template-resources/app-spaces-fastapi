@@ -2,7 +2,7 @@
   "version": "1.0.0.0",
   "components": [
     {
-      "id": "",
+      "id": "backend",
       "friendlyName": "FastApi App",
       "type": "api",
       "appLocation": "/",
